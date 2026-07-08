@@ -41,7 +41,7 @@ const Navbar = ({ theme, toggleTheme }) => {
             <GraduationCap size={22} />
           </div>
           <span>
-            Velammal<span className="logo-text-accent">ITech</span>
+            Velammal Institute <span className="logo-text-accent">Of Technology</span>
           </span>
         </Link>
 

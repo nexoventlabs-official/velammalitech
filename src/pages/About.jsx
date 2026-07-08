@@ -61,7 +61,7 @@ const About = () => {
                 textAlign: 'center',
                 width: '80%'
               }}>
-                <div>VELAMMAL ITECH</div>
+                <div>VELAMMAL INSTITUTE OF TECHNOLOGY</div>
                 <div style={{ fontSize: '0.9rem', fontWeight: '500', marginTop: '10px', color: '#e2e8f0', letterSpacing: '2px' }}>PANOHETTI CAMPUS</div>
               </div>
             </div>
@@ -71,7 +71,7 @@ const About = () => {
               <span className="about-subtitle font-heading">Who We Are</span>
               <h2 className="about-title">Nurturing Leaders for the Technological Frontier</h2>
               <p>
-                Established under the esteemed Velammal Educational Trust, Velammal Institute of Technology is dedicated to providing high-quality technical education that meets global standards. Located in Chennai, India, our state-of-the-art campus acts as an incubation center for learning.
+                Established under the esteemed Velammal Educational Trust, Velammal Institute Of Technology is dedicated to providing high-quality technical education that meets global standards. Located in Chennai, India, our state-of-the-art campus acts as an incubation center for learning.
               </p>
               <p>
                 Approved by AICTE and affiliated with Anna University, we focus heavily on interdisciplinary research, industrial mentorship programs, and high-performance placement initiatives.

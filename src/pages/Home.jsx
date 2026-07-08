@@ -39,7 +39,7 @@ const Home = () => {
               <span className="hero-tagline">Excel & Innovate</span>
               <h1 className="hero-title">Shaping the Innovators of Tomorrow</h1>
               <p className="hero-desc">
-                Velammal Institute of Technology bridges rigorous academic excellence with hands-on technical creation, preparing global engineering minds to solve real-world problems.
+                Velammal Institute Of Technology bridges rigorous academic excellence with hands-on technical creation, preparing global engineering minds to solve real-world problems.
               </p>
               <div className="hero-buttons">
                 <Link to="/about" className="btn btn-primary">
@@ -102,7 +102,7 @@ const Home = () => {
       <section className="features-section">
         <div className="container">
           <div className="section-header">
-            <h2>Why Velammal ITech?</h2>
+            <h2>Why Velammal Institute Of Technology?</h2>
             <p>We combine theoretical knowledge with state-of-the-art facilities to create an environment where innovation thrives.</p>
           </div>
           <div className="features-grid">

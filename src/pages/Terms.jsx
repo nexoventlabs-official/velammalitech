@@ -10,7 +10,7 @@ const Terms = () => {
           
           <div className="legal-content">
             <p>
-              Welcome to the official web portal of Velammal Institute of Technology (V ITech). By accessing, browsing, or using this website, you acknowledge that you have read, understood, and agreed to be bound by the terms and conditions outlined below.
+              Welcome to the official web portal of Velammal Institute Of Technology (V ITech). By accessing, browsing, or using this website, you acknowledge that you have read, understood, and agreed to be bound by the terms and conditions outlined below.
             </p>
             
             <h2>1. Academic Portal Usage</h2>
@@ -30,7 +30,7 @@ const Terms = () => {
 
             <h2>3. Intellectual Property Rights</h2>
             <p>
-              All academic papers, research journals, custom student software projects, images, logos, and course content displayed on this website are the intellectual property of Velammal Institute of Technology or their respective authors. Unauthorized reproduction, distribution, or commercial exploitation is strictly prohibited.
+              All academic papers, research journals, custom student software projects, images, logos, and course content displayed on this website are the intellectual property of Velammal Institute Of Technology or their respective authors. Unauthorized reproduction, distribution, or commercial exploitation is strictly prohibited.
             </p>
 
             <h2>4. Admission Inquiry Terms</h2>
@@ -40,7 +40,7 @@ const Terms = () => {
 
             <h2>5. Revisions and Modifications</h2>
             <p>
-              Velammal Institute of Technology reserves the right to modify these terms, course structures, and placement claims without prior notice. Continued use of this portal constitutes acceptance of any modified terms.
+              Velammal Institute Of Technology reserves the right to modify these terms, course structures, and placement claims without prior notice. Continued use of this portal constitutes acceptance of any modified terms.
             </p>
           </div>
         </div>

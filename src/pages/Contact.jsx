@@ -77,7 +77,7 @@ const Contact = () => {
               {/* Styled Maps Block */}
               <div className="map-placeholder">
                 <iframe
-                  title="Velammal Institute of Technology Campus Map"
+                  title="Velammal Institute Of Technology Campus Map"
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.044005166299!2d80.14641377507567!3d13.294820887192843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4dd7c6c496c14d%3A0x6b4458f3f885e353!2sVelammal%20Institute%20of%20Technology!5e0!3m2!1sen!2sin!4v1720413000000!5m2!1sen!2sin"
                   width="100%"
                   height="100%"

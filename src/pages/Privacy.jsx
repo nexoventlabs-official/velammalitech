@@ -10,7 +10,7 @@ const Privacy = () => {
           
           <div className="legal-content">
             <p>
-              At Velammal Institute of Technology (V ITech), we prioritize the security and confidentiality of our students', parents', and visitors' personal data. This policy outlines how we gather, process, and protect your information.
+              At Velammal Institute Of Technology (V ITech), we prioritize the security and confidentiality of our students', parents', and visitors' personal data. This policy outlines how we gather, process, and protect your information.
             </p>
             
             <h2>1. Information We Collect</h2>

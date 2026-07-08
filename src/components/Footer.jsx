@@ -54,11 +54,11 @@ const Footer = () => {
                 <GraduationCap size={22} />
               </div>
               <span>
-                Velammal<span className="logo-text-accent">ITech</span>
+                Velammal Institute <span className="logo-text-accent">Of Technology</span>
               </span>
             </Link>
             <p>
-              Velammal Institute of Technology is dedicated to producing engineers of high caliber with ethical values who can compete globally and lead innovative technological improvements.
+              Velammal Institute Of Technology is dedicated to producing engineers of high caliber with ethical values who can compete globally and lead innovative technological improvements.
             </p>
             <div className="social-links">
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="Facebook">
@@ -128,7 +128,7 @@ const Footer = () => {
 
         {/* Footer Bottom */}
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Velammal Institute of Technology. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Velammal Institute Of Technology. All rights reserved.</p>
           <div className="footer-bottom-links">
             <Link to="/privacy">Privacy Policy</Link>
             <Link to="/terms">Terms of Service</Link>
